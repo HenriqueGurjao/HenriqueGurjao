@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-### ola!! eu sou Herique Gurjão, programador iniciante
+ ola!! eu sou Herique Gurjão, programador iniciante
 
 - 🔭 Atualmente estou a procura de trabalho
 - 🌱 Estou aprendendo python,php e laveral
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueGurjao">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGurjao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGurjao&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130cm"  src="https://github-readme-stats.vercel.app/api?username=HenriqueGurjao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGurjao&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
