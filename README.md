@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
- ola!! eu sou Herique Gurjão, programador iniciante
+ Ola!! eu sou Herique Gurjão, programador iniciante
 
 - 🔭 Atualmente estou a procura de trabalho
 - 🌱 Estou aprendendo python,php e laveral
