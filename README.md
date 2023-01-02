@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
- Ola!! eu sou Herique Gurjão, programador iniciante
 <div align="center">
   <a href="https://github.com/HenriqueGurjao">
   <img height="130cm"  src="https://github-readme-stats.vercel.app/api?username=HenriqueGurjao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
